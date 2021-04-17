@@ -1,4 +1,5 @@
-# (Excel) Kickstart My Chart
+# Kickstart My Chart
+This is Excl based data analysis project.
 
 ## Motivation
 
