@@ -1,5 +1,5 @@
 # Kickstart My Chart
-This is Excl based data analysis project.
+This is an Excl based data analysis project.
 
 ## Motivation
 
